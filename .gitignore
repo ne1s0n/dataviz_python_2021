@@ -2,6 +2,9 @@
 data/
 results/
 
+#ignoring notebooks checkpoints
+**/*checkpoint*
+
 
 #---- BELOW ONLY STANDARD GITUB RULES FOR PYTHON
 # Byte-compiled / optimized / DLL files
