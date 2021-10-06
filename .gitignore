@@ -1,5 +1,6 @@
-#ignoring the data folder in its entirety
+#ignoring data and results folders in their entirety
 data/
+results/
 
 
 #---- BELOW ONLY STANDARD GITUB RULES FOR PYTHON
